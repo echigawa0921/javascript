@@ -46,8 +46,8 @@ li{
 .background-red{
   background-color: #FF6666 ;
   color: white;
+  padding: 20px;
 }
-
 .pull-down-list{
   padding: 15px 35px 15px 15px;
   border: 1px solid #eee;
@@ -55,11 +55,11 @@ li{
 .contents{
   height: 100vh;
   background-color: #f0f0f0;
-
 }
 .list-status{
   width: 230px;
 }
+
 .hidden{
   display: none;
 }
